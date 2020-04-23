@@ -1,0 +1,22 @@
+{
+    "Product": {
+        "children": [
+            {
+                "Categorical": {
+                    "id": 1,
+                    "p": [0.5, 0.5],
+                    "scope": [0]
+                }
+            },
+            {
+                "Categorical": {
+                    "id": 2,
+                    "p": [0.2, 0.8],
+                    "scope": [2]
+                }
+            }
+        ],
+        "id": 0, 
+        "scope": []
+    }
+}
